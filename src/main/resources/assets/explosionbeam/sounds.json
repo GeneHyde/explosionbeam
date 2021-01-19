@@ -1,0 +1,12 @@
+{
+  "megumin_chant": {
+    "category": "player",
+    "subtitle": "explosionbeam.subtitle.meguminChant",
+    "sounds": [ "explosionbeam:megumin_chant_sound_file" ]
+  },
+  "megumin_explosion": {
+    "category": "player",
+    "subtitle": "explosionbeam.subtitle.meguminExplosion",
+    "sounds": [ "explosionbeam:megumin_explosion_sound_file" ]
+  }
+}
